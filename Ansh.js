@@ -1,0 +1,21 @@
+ jQuery(document).ready(function(){
+    jQuery('.skillbar').each(function(){
+      jQuery(this).find('.skillbar-bar').animate({
+        width:jQuery(this).attr('data-percent')
+      },3000);
+    });
+  });
+
+
+
+ var ractive = new Ractive({
+  el: '#container',
+  template: '#template',
+  data: {}
+});
+
+
+ 
+
+
+ 
