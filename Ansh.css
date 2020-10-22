@@ -80,7 +80,7 @@ font-size:60px;
 {
 
    
-
+ padding-bottom:100px;
 }
 
 .aboutme
@@ -91,6 +91,8 @@ font-size:60px;
   opacity:80%;
   background-color:#EDEDED;
   font-size:23px;
+  margin-bottom:100px;
+
 }
 
 
