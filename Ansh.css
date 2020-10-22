@@ -45,8 +45,15 @@ font-weight:bold;
   
 }
 
+#word
+{
+  margin-top:30px;
+margin-bottom:40px;
+}
+
 .col-md-8 h1
 {
+
 
 margin-left:50px;
 color:white;
@@ -83,7 +90,6 @@ font-size:60px;
   font-style:italic;
   opacity:80%;
   background-color:#EDEDED;
-  padding:10px;
   font-size:23px;
 }
 
@@ -150,7 +156,7 @@ display:inline-block;
 .biod
 {
 
- padding:20px;
+
 
 }
 .empty
@@ -180,9 +186,9 @@ display:inline-block;
 {   
   
   font-size:25px;
-  padding:30px;
   float:left;
   color:black;
+
 }
 
 .col-md-8 li
@@ -213,7 +219,12 @@ display:inline-block;
   height:100px;
 }
 
-
+#email
+{
+  color:#2979FF;
+  font-style:italic;
+  font-size:20px;
+}
 //icons
 
 .icons {
